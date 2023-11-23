@@ -1,0 +1,2 @@
+module CompanyInHunan {
+}
